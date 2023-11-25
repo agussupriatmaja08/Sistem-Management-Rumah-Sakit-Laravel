@@ -1,0 +1,31 @@
+.card1 {
+    margin-left: 150px;
+    height: 300px;
+    width: 1000px;
+
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+
+}
+
+.foto {
+    width: 40%;
+    height: 300px;
+
+
+
+}
+
+.isi {
+    width: 60%;
+    height: 300px;
+    margin-left: 10px;
+    font-size: 20px;
+
+}
+img{
+    border-radius: 0;
+    width: 200px;
+    height: 200px;
+}

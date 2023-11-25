@@ -1,0 +1,34 @@
+      /* styling untuk tabel */
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+      
+      th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+      }
+      
+      th {
+        background-color: #4CAF50;
+        color: white;
+      }
+      
+      /* styling untuk baris ganjil */
+      tr:nth-child(odd) {
+        background-color: #f2f2f2;
+      }
+      
+      /* styling untuk baris genap */
+      tr:nth-child(even) {
+        background-color: #ffffff;
+      }
+
+      .add{
+        margin-left: 85%;
+      }
+
+      td {
+        text-decoration: none;
+      }

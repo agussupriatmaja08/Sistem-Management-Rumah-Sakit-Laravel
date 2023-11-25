@@ -62,3 +62,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+"Sistem-Management-Rumah-Sakit-Laravel is a CRUD system developed using the Laravel framework. This system enables administrators to log in, log out, and perform various CRUD operations, including:
+
+1. CRUD Patient Data, Medical Staff Data, and Hospital Room Data: Administrators can add, view, edit, and delete patient data, medical staff data, and hospital room data through the user interface.
+
+2. CRUD Sick Referral Letters: Administrators can handle the creation, display, editing, and deletion of sick referral letters through provided CRUD functions.
+
+3. CRUD Inpatient Data: The system allows administrators to manage inpatient data by adding, viewing, editing, and deleting data for patients admitted to the hospital.
+
+Additionally, that the system provides authentication functionality (login and logout) for security purposes and manages role-based access control, ensuring that only users with specific permissions can perform certain CRUD operations."
+
